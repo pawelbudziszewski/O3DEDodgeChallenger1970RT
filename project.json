@@ -1,0 +1,33 @@
+{
+    "project_name": "O3DEDodgeChallenger1970RT",
+    "version": "1.0.0",
+    "project_id": "{01F00C39-002F-4491-BC7A-0E594B573420}",
+    "origin": "https://github.com/pawelbudziszewski/O3DEDodgeChallenger1970RT",
+    "license": "https://opensource.org/licenses/Apache-2.0",
+    "display_name": "O3DEDodgeChallenger1970RT",
+    "summary": "Project demonstrating SampleVehicleAssets (https://github.com/pawelbudziszewski/o3de-sample-vehicle-assets) ",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "O3DEDodgeChallenger1970RT", 
+        "Dodge Challenger",
+        "vehicle dynamics"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "O3DEDodgeChallenger1970RT",
+    "gem_names": [
+        "O3DEDodgeChallenger1970RT",
+        "AWSCore",
+        "Atom",
+        "DiffuseProbeGrid",
+        "PhysX",
+        "VehicleDynamics",
+        "SampleVehicleAssets"
+    ],
+    "engine_version": "2.2.2"
+}

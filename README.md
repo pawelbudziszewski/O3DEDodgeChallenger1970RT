@@ -27,6 +27,6 @@ Please refer to the [O3DE User Guide](https://www.docs.o3de.org/docs/user-guide/
 ## Notes
 
 Tested on:
-- Vehicle Dynamics Gem ver. 1.0.0
-- O3DE ver. 24.09.0 (should also run fine in 24.09.1)
+- Vehicle Dynamics Gem ver. 1.0.0 (commit [fadb47e](https://github.com/RobotecAI/o3de-vehicle-dynamics-gem/commit/fadb47ed53be8063f6f05c960470991a18b793aa))
+- O3DE ver. 24.09.0, 24.09.1
 - Windows 11, Ubuntu Linux 22.04

@@ -22,10 +22,9 @@
     "restricted": "O3DEDodgeChallenger1970RT",
     "gem_names": [
         "O3DEDodgeChallenger1970RT",
-        "AWSCore",
         "Atom",
         "DiffuseProbeGrid",
-        "PhysX",
+        "PhysX5",
         "VehicleDynamics",
         "SampleVehicleAssets"
     ],

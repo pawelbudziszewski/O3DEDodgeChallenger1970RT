@@ -94,7 +94,7 @@
                 "ShaderAsset": {
                     "FilePath": "Shaders/PostProcessing/Taa.shader"
                 },
-                "Make Fullscreen Pass": true,
+                "FullscreenDispatch": true,
                 "ShaderDataMappings": {
                     "FloatMappings": [
                         {
@@ -111,7 +111,7 @@
                         }
                     ]
                 },
-                "NumJitterPositions": 2
+                "NumJitterPositions": 3
             }
         }
     }

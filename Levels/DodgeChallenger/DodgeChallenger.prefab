@@ -21,7 +21,10 @@
                             "Options": {
                                 "Enable": true,
                                 "MaxRayDistance": 100.0,
-                                "HalfResolution": false
+                                "HalfResolution": false,
+                                "ReflectionMethod": 3,
+                                "RayTraceFallbackSpecular": true,
+                                "TemporalFiltering": false
                             }
                         }
                     }

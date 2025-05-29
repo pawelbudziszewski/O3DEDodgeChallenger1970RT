@@ -1,6 +1,6 @@
 {
     "project_name": "O3DEDodgeChallenger1970RT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "project_id": "{01F00C39-002F-4491-BC7A-0E594B573420}",
     "origin": "https://github.com/pawelbudziszewski/O3DEDodgeChallenger1970RT",
     "license": "https://opensource.org/licenses/Apache-2.0",
@@ -22,12 +22,11 @@
     "restricted": "O3DEDodgeChallenger1970RT",
     "gem_names": [
         "O3DEDodgeChallenger1970RT",
-        "AWSCore",
         "Atom",
         "DiffuseProbeGrid",
-        "PhysX",
+        "PhysX5",
         "VehicleDynamics",
         "SampleVehicleAssets"
     ],
-    "engine_version": "2.2.2"
+    "engine_version": "2.4.0"
 }
